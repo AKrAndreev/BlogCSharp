@@ -1,0 +1,12 @@
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csprojResolveAssemblyReference.cache
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+C:\Users\akran\Desktop\SoftwareTechnologies\CS\blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.pdb
